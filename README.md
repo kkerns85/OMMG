@@ -42,3 +42,7 @@ Nextflow: https://www.nextflow.io
 
 McLean Lab: Univeristy of Washington School of Dentistry, Department of Periodontics
 
+
+Modeled off of Geneshot (Sam Minot) and MUFFIN (RVanDamme) Nextflow workflows
+Without their brilliance this workflow would not exist!
+
