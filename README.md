@@ -5,6 +5,9 @@ This Pipeline is optimized for looking at either WGS or RNAseq data or both deri
 
 Starting with Raw reads, single or paried-end, in fastq format the OMMG workflow carries out the following programs through the use of the Nextflow workflow manager.
 
+![](images/OMMG_workflow.png)
+
+
 More information is available at: 
 
 Kneaddata: http://huttenhower.sph.harvard.edu/kneaddata
