@@ -1,5 +1,5 @@
-# OMMG_nextflow
-Oral Microbiome Meta Genomic (OMMG) Workflow using Nextflow
+# OMMG
+Oral Microbiome Meta Genomic (OMMG) Workflow using Nextflow optimized for AWS-Batch
 
 This Pipeline is optimized for looking at either WGS or RNAseq data or both derived from Human Oral Samples
 
